@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/atman313/chef-mep">
 
-    <img src="chef-mep/public/logo-transparent-svg 1.svg" alt="Logo" width="100" height="100">
+    <img src="chef-mep/public/logo.svg" alt="Logo" width="100" height="100">
   </a>
 </h1>
 
