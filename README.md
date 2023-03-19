@@ -21,7 +21,7 @@
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/atman313/chef-mep.svg?style=flat-square)](docs/LICENSE)
+[![Project license MIT](https://img.shields.io/github/license/atman313/chef-mep.svg?style=flat-square)](docs/LICENSE)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/atman313/chef-mep/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by GITHUB_USERNAME](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-atman313-ff1414.svg?style=flat-square)](https://github.com/atman313)
