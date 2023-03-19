@@ -1,4 +1,2 @@
-A full service recipe keeper specifically built for professional chefs. 
-
-Wire Frame reference for landing page: https://wireframe.cc/T1igIq     
+# Chef MEP- a chef focused app for recipe keeping/ sharing, networking, health/career resources, and document/form storage.
 
