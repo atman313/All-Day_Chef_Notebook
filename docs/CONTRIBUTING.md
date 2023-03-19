@@ -5,23 +5,19 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in
 
 ## Development environment setup
 
-> **[?]**
-> Proceed to describe how to setup local development environment.
-> e.g:
-
 To set up a development environment, please follow these steps:
 
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/GITHUB_USERNAME/REPO_SLUG
+   git clone https://github.com/atman313/chef-mep
    ```
 
 2. TODO
 
 ## Issues and feature requests
 
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/GITHUB_USERNAME/REPO_SLUG/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/atman313/chef-mep/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
 
 Please try to create bug reports that are:
 
@@ -35,10 +31,10 @@ Please try to create bug reports that are:
 ### How to submit a Pull Request
 
 1. Search our repository for open or closed
-   [Pull Requests](https://github.com/GITHUB_USERNAME/REPO_SLUG/pulls)
+   [Pull Requests](https://github.com/atman313/chef-mep/pulls)
    that relate to your submission. You don't want to duplicate effort.
 2. Fork the project
 3. Create your feature branch (`git checkout -b feat/amazing_feature`)
-4. Commit your changes (`git commit -m 'feat: add amazing_feature'`) PROJECT_NAME uses [conventional commits](https://www.conventionalcommits.org), so please follow the specification in your commit messages.
+4. Commit your changes (`git commit -m 'feat: add amazing_feature'`) Chef MEP uses [conventional commits](https://www.conventionalcommits.org), so please follow the specification in your commit messages.
 5. Push to the branch (`git push origin feat/amazing_feature`)
-6. [Open a Pull Request](https://github.com/GITHUB_USERNAME/REPO_SLUG/compare?expand=1)
+6. [Open a Pull Request](https://github.com/atman313/chef-mep/compare?expand=1)

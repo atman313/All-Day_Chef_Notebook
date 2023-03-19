@@ -21,7 +21,7 @@
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/atman313/chef-mep.svg?style=flat-square)](LICENSE)
+[![Project license](https://img.shields.io/github/license/atman313/chef-mep.svg?style=flat-square)](docs/LICENSE)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/atman313/chef-mep/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by GITHUB_USERNAME](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-atman313-ff1414.svg?style=flat-square)](https://github.com/atman313)
@@ -53,9 +53,10 @@
 ## About
 
 > **A chef focused app for recipe keeping/ sharing, networking, health/career resources, and document/form storage.**
+<br>
 > This project is one of the things that inspired me to leave my previous career as a chef. I saw the hospitality industry was in need of technology and the tools to do their jobs more efficiently. Nobody else was creating these projects, and it inspired me to learn how to code and create the tools I could have used as a professional in the hospitality industry. 
 
-This app will provide professional chefs with the ability to turn all of their handwritten recipes and notes into digital versions. The recipes can be organized into specific "binders" that are easily shared with employees or friends. It will also feature resources for job listings, resume writing, visual portfolio generators, mental health, networking, and a place to store template documents or forms that they have created(inventory sheets, payroll, BEOs, HAACP plans, etc.) instead of having to remake them every time they start a new job. 
+> This app will provide professional chefs with the ability to turn all of their handwritten recipes and notes into digital versions. The recipes can be organized into specific "binders" that are easily shared with employees or friends. It will also feature resources for job listings, resume writing, visual portfolio generators, mental health, networking, and a place to store template documents or forms that they have created(inventory sheets, payroll, BEOs, HAACP plans, etc.) instead of having to remake them every time they start a new job. 
 
 <details>
 <summary>Screenshots</summary>
@@ -134,7 +135,7 @@ _For more information and to report security issues, please refer to our [securi
 
 This project is licensed under the **MIT license**.
 
-See [LICENSE](chef-mep/docs/LICENSE) for more information.
+See [LICENSE](docs/LICENSE) for more information.
 
 ## Acknowledgements
 
